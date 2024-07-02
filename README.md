@@ -5,7 +5,10 @@ Live version:
 https://bucolic-axolotl-977c34.netlify.app/
 
 Created using:
-    HTML
+    HTML 
+    
     CSS
+    
     Bootstrap
+    
     JavaScript
